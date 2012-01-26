@@ -1,4 +1,3 @@
-<pre><code>
 h1. HTML newsletter template
 
 Here is a collection of templates that can be used for any HTML newsletter. How cool is that?
