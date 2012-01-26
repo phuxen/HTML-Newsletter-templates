@@ -3,6 +3,6 @@ h1. HTML newsletter template
 
 Here is a collection of templates that can be used for any HTML newsletter. How cool is that?
 
-</code></pre>
+<code><pre></code></pre>
 
 (c) 2012 Paul Huxen, licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
